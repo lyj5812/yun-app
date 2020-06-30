@@ -5,9 +5,6 @@ module.exports = {
   transpileDependencies: ['uni-simple-router'],
   // 配置路径别名
   configureWebpack: {
-    devServer: {
-      disableHostCheck: true
-    },
     plugins: [
       new tfPages.webpack.DefinePlugin({
         ROUTES: JSON.stringify(tfPages.routes)
