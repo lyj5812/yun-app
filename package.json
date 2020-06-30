@@ -35,6 +35,7 @@
     "@dcloudio/uni-stat": "^2.0.0-27920200618002",
     "flyio": "^0.6.2",
     "regenerator-runtime": "^0.12.1",
+    "uni-read-pages": "^1.0.5",
     "uni-simple-router": "^1.5.5",
     "uview-ui": "^1.4.1",
     "vue": "^2.6.11",
