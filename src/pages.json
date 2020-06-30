@@ -4,104 +4,11 @@
 		{
 			"path": "pages/index/index",
 			"style": {}
-		},
-		{
-			"path": "pages/basics/layout",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/background",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/text",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/icon",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/button",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/design",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/tag",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/avatar",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/progress",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/shadow",
-			"style": {}
-		},
-		{
-			"path": "pages/basics/loading",
-			"style": {}
-		},
-		{
-			"path": "pages/component/bar",
-			"style": {}
-		},
-		{
-			"path": "pages/component/nav",
-			"style": {}
-		},
-		{
-			"path": "pages/component/list",
-			"style": {}
-		},
-		{
-			"path": "pages/component/card",
-			"style": {}
-		},
-		{
-			"path": "pages/component/form",
-			"style": {}
-		},
-		{
-			"path": "pages/component/timeline",
-			"style": {}
-		},
-		{
-			"path": "pages/component/chat",
-			"style": {}
-		},
-		{
-			"path": "pages/component/swiper",
-			"style": {}
-		},
-		{
-			"path": "pages/component/modal",
-			"style": {}
-		},
-		{
-			"path": "pages/component/steps",
-			"style": {}
-		}, {
-			"path": "pages/plugin/indexes",
-			"style": {}
-		}, {
-			"path": "pages/plugin/animation",
-			"style": {}
-		}, {
-			"path": "pages/plugin/drawer",
-			"style": {}
-		}, {
-			"path": "pages/plugin/verticalnav",
-			"style": {}
 		}
 	],
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
 	"globalStyle": {
 		"mp-alipay": {
 			/* 支付宝小程序特有相关 */
@@ -109,7 +16,7 @@
 			"allowsBounceVertical": "NO"
 		},
 		"navigationBarBackgroundColor": "#0081ff",
-		"navigationBarTitleText": "ColorUi for UniApp",
+		"navigationBarTitleText": "yun-app",
 		"navigationStyle": "custom",
 		"navigationBarTextStyle": "white"
 	},
