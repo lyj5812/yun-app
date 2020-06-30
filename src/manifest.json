@@ -47,7 +47,9 @@
             },
             "ios" : {},
             /* ios打包配置 */
-            "sdkConfigs" : {},
+            "sdkConfigs" : {
+                "ad" : {}
+            },
             "icons" : {
                 "android" : {
                     "hdpi" : "unpackage/res/icons/72x72.png",
@@ -82,7 +84,7 @@
             },
             "splashscreen" : {
                 "android" : {
-                    "hdpi" : "C:/Users/lyj/Pictures/微信图片_20190830202416.png"
+                    "hdpi" : "C:/Users/lyj/Desktop/u2.png"
                 }
             }
         }
